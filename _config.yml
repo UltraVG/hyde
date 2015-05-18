@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Ultra
-tagline:          'Vector Graphics Engine'
-description:      'GPU-Accelerated<br>2D Graphics Engine'
+tagline:          'HTML UI for Games'
+description:      'High-Performance HTML UI for Games'
 url:              http://ultra.vg
 baseurl:          /
 
