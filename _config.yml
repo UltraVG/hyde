@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Ultra
 tagline:          'HTML UI for Games'
-description:      'High-Performance HTML UI for Games'
+description:      'High-Performance<br>HTML UI for Games'
 url:              http://ultra.vg
 baseurl:          /
 
